@@ -4,7 +4,7 @@
 ## 📊 Dashboard Preview
 
 
-![Pizza Dashboard](pizza_dashboard.png)
+![Pizza Dashboard](Pizza_Dashboard.png)
 
 
 
