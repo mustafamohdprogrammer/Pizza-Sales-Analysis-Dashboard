@@ -31,3 +31,9 @@ It includes data preprocessing, SQL queries, and an interactive Excel dashboard 
 ---
 
 ## 📂 Project Structure
+┣ 📄 README.md
+┣ 📊 Excel_data_analysis.xlsx # Excel Dashboard
+┣ 📜 pizza_sales.csv # Raw Sales Dataset
+┣ 🗃️ data_analysis.sql # SQL Queries
+┣ 📄 Pizza Sales SQL Queries.docx # SQL Documentation
+┣ 🖼️ Pizza Background.jpg # Dashboard Background
