@@ -1,4 +1,8 @@
 # Pizza-Sales-Analysis-Dashboard
+
+
+![Uploading image.png…]()
+
 # 🍕 Pizza Sales Analysis Dashboard
 
 This project analyzes pizza sales data using **Excel** and **SQL**, providing key insights and KPIs about business performance.  
