@@ -4,7 +4,7 @@
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="pizza%20dashboard.jpg" alt="Pizza Dashboard" width="700"/>
+  <img src="pizza%20dashboard.png" alt="Pizza Dashboard" width="700"/>
 </p>
 
 
