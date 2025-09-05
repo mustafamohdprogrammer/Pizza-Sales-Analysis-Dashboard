@@ -3,9 +3,10 @@
 
 ## 📊 Dashboard Preview
 
-<p align="center">
-  <img src="pizza%20dashboard.png" alt="Pizza Dashboard" width="700"/>
-</p>
+## 📊 Dashboard Preview
+
+![Pizza Dashboard](pizza%20dashboard.png)
+
 
 
 
