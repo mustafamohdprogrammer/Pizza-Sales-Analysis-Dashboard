@@ -37,3 +37,29 @@ It includes data preprocessing, SQL queries, and an interactive Excel dashboard 
 ┣ 🗃️ data_analysis.sql # SQL Queries
 ┣ 📄 Pizza Sales SQL Queries.docx # SQL Documentation
 ┣ 🖼️ Pizza Background.jpg # Dashboard Background
+
+
+---
+
+## ⚙️ Tools Used
+- **Microsoft Excel** – Dashboard & Visualization
+- **SQL (MySQL/PostgreSQL/SQLite)** – Data Analysis
+- **CSV** – Raw Data
+- **Power Query / Pivot Tables** – Excel Processing
+
+---
+
+## 🚀 How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/pizza-sales-analysis.git
+Open Excel_data_analysis.xlsx to explore the dashboard.
+
+Run SQL queries from data_analysis.sql on your preferred SQL environment.
+
+Use pizza_sales.csv as the raw dataset.
+
+👨‍💻 Author
+
+Mohd Mustafa
+Data Science & GenAI Enthusiast | SQL • Excel • Python • Visualization
