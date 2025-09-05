@@ -3,9 +3,8 @@
 
 ## 📊 Dashboard Preview
 
-## 📊 Dashboard Preview
 
-![Pizza Dashboard](pizza%20dashboard.png)
+![Pizza Dashboard](pizza_dashboard.png)
 
 
 
