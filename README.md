@@ -1,7 +1,8 @@
 # Pizza-Sales-Analysis-Dashboard
 
 
-![Uploading image.png…]()
+![Pizza Dashboard](pizza_dashboard.jpg)
+
 
 # 🍕 Pizza Sales Analysis Dashboard
 
